@@ -1,0 +1,16 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "Mailer for roekeloze frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christophe Van de Poel",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "nodemailer": "^4.0.1"
+  }
+}
